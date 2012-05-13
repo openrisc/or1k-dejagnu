@@ -1,0 +1,9 @@
+2012-05-13  Peter Gavin  <pgavin@gmail.com>
+
+	* add or1k and or1knd targets
+	* config.guess, config.sub: add new targets
+	* Makefile.am: add new files
+	* Makefile.in: regenerate
+	* baseboards/or1k-sim.exp: new file
+	-baseboard config for GNU cgen simulator
+	* config/or1k.exp: new file
